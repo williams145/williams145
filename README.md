@@ -83,7 +83,7 @@
 
 <div align="left">
  
-  <a href="https://www.linkedin.com/in/iyen-emmanuel" target="_blank">
+  <a href="https://www.linkedin.com/in/williams-ugbomeh-50483614a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -102,7 +102,7 @@
 
 My stats:
 
-![Emmannuels Streak](https://github-readme-streak-stats.herokuapp.com/?user=InnovinAC&theme=synthwave&hide_border=true&card_width=900px)
+![Williams Streak](https://github-readme-streak-stats.herokuapp.com/?user=InnovinAC&theme=synthwave&hide_border=true&card_width=900px)
 
 ###
 - 💞️ I’m looking to collaborate on any project.
